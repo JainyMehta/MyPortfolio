@@ -21,7 +21,8 @@
 .secondary-color {
   color: #dee3d8;
 }
-.tertiary-color {
+.tertiary-color,
+li {
   color: #2d6766;
 }
 
